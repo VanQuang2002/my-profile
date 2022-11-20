@@ -143,7 +143,7 @@ body {
         /* font-family: 'Noto Sans', sans-serif; */
     }
     .info li {
-        text-align: justify !important;
+        text-align: justify;
     }
     .icon ul {
         margin: 0;
@@ -160,7 +160,7 @@ body {
         color: rgb(255, 255, 255);
         letter-spacing: 0.1rem;
         text-decoration: none;
-        font-size: 2.5rem;
+        font-size: 3rem;
         transition: all ease-in-out 250ms;
     }
 }
